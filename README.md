@@ -19,10 +19,8 @@ A simple full-stack To-Do List web application built with MongoDB, Express.js, R
 
 ### FronEnd Setup
 
-1.Navigate to the frontend folder: cd frontend
+1. Navigate to the frontend folder: cd frontend
 
+2. Install dependencies: npm install
 
-2.Install dependencies: npm install
-
-
-3.Start the React app: npm run dev
+3. Start the React app: npm run dev
