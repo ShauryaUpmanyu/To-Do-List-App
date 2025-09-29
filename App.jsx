@@ -178,7 +178,7 @@ function App() {
       <footer>
         <div className="footer">
           <p className="made-by">Made-By</p>
-          <p className="author"> Shaurya Upmanyu</p>
+          <p className="author"> Emperor </p>
         </div>
       </footer>
       <button id="theme-toggle" onClick={toggleTheme}>
