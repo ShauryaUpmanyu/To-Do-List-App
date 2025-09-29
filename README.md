@@ -14,17 +14,9 @@ A simple full-stack To-Do List web application built with MongoDB, Express.js, R
    cd backend
 
 2. Install dependencies:
+   npm install
 
-  npm install
-
-
-3. Create a .env file based on .env.example:
-
-  MONGO_URI=your_mongodb_connection_string
-  PORT=5000
-
-
-4. Start the server:
+3. Start the server:
   npm start
 
 ### FronEnd Setup
